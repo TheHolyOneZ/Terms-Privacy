@@ -3,7 +3,7 @@ Terms of Service for AdminBot
 By using AdminBot ("the Bot") on your Discord server, you agree to the following Terms of Service ("Terms"). These Terms apply to all users and administrators who interact with the Bot, and by adding the Bot to your server, you acknowledge and accept these terms.
 
 2. Self-Hosting Requirement
-To use AdminBot, users are required to host the Bot and its associated scripts on their own server or hosting provider. The entire source code, including all features and configurations, is provided to you upon download. You are responsible for ensuring that the Bot is hosted and configured properly for your server.
+AdminBot is a self-hosted bot, meaning you must host the Bot and its associated scripts on your own server or hosting provider. The entire source code, including all features and configurations, is provided to you freely under the MIT License. You are responsible for ensuring that the Bot is hosted and configured properly on your server.
 
 Server Requirements: You must have a suitable environment (e.g., a VPS, dedicated server, or cloud hosting) capable of running the Bot, and it must meet the technical specifications listed in the Bot’s documentation.
 Self-Management: As the user, you are responsible for managing the hosting environment, ensuring that the Bot remains online and functional, and troubleshooting any issues related to the hosting or functionality of the Bot.
